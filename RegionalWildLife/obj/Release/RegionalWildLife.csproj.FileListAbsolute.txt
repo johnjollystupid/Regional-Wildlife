@@ -1,0 +1,11 @@
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\obj\Release\RegionalWildLife.csproj.CoreCompileInputs.cache
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\bin\Release\RegionalWildLife.dll
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\bin\Release\RegionalWildLife.pdb
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\obj\Release\RegionalWildLife.dll
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\obj\Release\RegionalWildLife.pdb
+E:\TFS\TLDMods\RegionalWildLife\c#\RegionalWildLife\bin\Release\RegionalWildLife.dll
+E:\TFS\TLDMods\RegionalWildLife\c#\RegionalWildLife\bin\Release\RegionalWildLife.pdb
+E:\TFS\TLDMods\RegionalWildLife\c#\RegionalWildLife\obj\Release\RegionalWildLife.csproj.AssemblyReference.cache
+E:\TFS\TLDMods\RegionalWildLife\c#\RegionalWildLife\obj\Release\RegionalWildLife.csproj.CoreCompileInputs.cache
+E:\TFS\TLDMods\RegionalWildLife\c#\RegionalWildLife\obj\Release\RegionalWildLife.dll
+E:\TFS\TLDMods\RegionalWildLife\c#\RegionalWildLife\obj\Release\RegionalWildLife.pdb

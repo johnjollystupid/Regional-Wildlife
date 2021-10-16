@@ -1,0 +1,2 @@
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\obj\Debug\RegionalWildLife.csproj.AssemblyReference.cache
+E:\TFS\TLDMods\RegionalWildLife\RegionalWildLife\obj\Debug\RegionalWildLife.csproj.CoreCompileInputs.cache
